@@ -10764,6 +10764,10 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
+body {
+  display: gr;
+}
+
 h1 {
   color: green;
 }
